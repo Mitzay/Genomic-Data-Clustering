@@ -23,7 +23,9 @@ These counts form the features of our dataset, which can have up to 256 dimensio
 Since it’s difficult to visualize high-dimensional data, we use PCA to reduce the dataset to two principal components.
 This allows us to explore structure and symmetry in the data visually.
 
-👉 [Insert PCA plot here — showing clusters for M=1 to M=4]
+<p align="center">
+  <img src="C:\Users\JoaoP\OneDrive\Ambient\PIC_1" alt="Alt text" width="400">
+</p>
 
 Interestingly, clear structure appears only when M = 3, suggesting that DNA may naturally encode information in three-letter “words.”
 
@@ -50,9 +52,6 @@ Each codon encodes an amino acid, the building blocks of proteins.
 
 K-means and PCA effectively reveal biological structure from raw sequence data.
 
-Conclusion
+## Conclusion
 
 Using simple unsupervised learning methods, we can extract meaningful biological insights from raw genetic data. This approach demonstrates the power of machine learning to uncover patterns hidden within complex natural systems.
-<p align="center">
-  <img src="images/your-image.png" alt="Alt text" width="400">
-</p>
