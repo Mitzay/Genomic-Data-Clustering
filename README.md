@@ -24,7 +24,7 @@ Since it’s difficult to visualize high-dimensional data, we use PCA to reduce 
 This allows us to explore structure and symmetry in the data visually.
 
 <p align="center">
-  <img src="PIC_1" alt="Alt text" width="400">
+  <img src="[PIC_1](https://github.com/Mitzay/Genomic-Data-Clustering/blob/main/PIC_1.png?raw=true)" alt="Alt text" width="400">
 </p>
 
 Interestingly, clear structure appears only when M = 3, suggesting that DNA may naturally encode information in three-letter “words.”
