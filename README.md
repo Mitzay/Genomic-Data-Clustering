@@ -34,7 +34,9 @@ Interestingly, clear structure appears only when M = 3, suggesting that DNA may 
 We standardize the data and run K-means clustering for different numbers of clusters (K = 6 and K = 7).
 The results align closely with the PCA visualization, revealing distinct clusters even in the high-dimensional space.
 
-👉 [Insert K-means clustering result plot here — showing 7 clusters (6 outer lobes + 1 central cluster)]
+<p align="center">
+  <img src="https://github.com/Mitzay/Genomic-Data-Clustering/blob/54a1e7bde0fc53877f2ea6bbbd548585b619ad8b/PIC_2.png" alt="PCA visualization" width="400">
+</p>
 
 When K = 7, the visualization separates the central blob from six symmetrical lobes:
 
