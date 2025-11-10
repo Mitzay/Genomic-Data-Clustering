@@ -1,6 +1,6 @@
 # Understanding the Genetic Code — Data Analysis with K-means and PCA
 
-This project explores how unsupervised learning techniques—specifically K-means clustering and Principal Component Analysis (PCA)—can help us uncover patterns in DNA sequences to better understand the genetic code.
+This project explores how unsupervised learning techniques, specifically K-means clustering and Principal Component Analysis (PCA), can help us uncover patterns in DNA sequences to better understand the genetic code.
 
 ## Overview
 
